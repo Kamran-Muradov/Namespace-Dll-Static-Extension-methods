@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VrQh5KSgnD2cHGyxeh7bTlHmFfhX+KU7wTRMCdnKrPG4xSyE1DC2ewkpNNM9l9/pRIAEQuJECEyQEe7GgBEWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

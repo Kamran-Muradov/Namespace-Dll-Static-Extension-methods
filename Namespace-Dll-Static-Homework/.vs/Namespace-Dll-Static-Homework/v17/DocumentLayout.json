@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49C2ACD9-31BC-4C04-9E06-A0D0FAA2EEAC}|Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework.csproj|c:\\workspace code academy\\namespace-dll-static-homework\\namespace-dll-static-homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C2ACD9-31BC-4C04-9E06-A0D0FAA2EEAC}|Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework.csproj|solutionrelative:namespace-dll-static-homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C2ACD9-31BC-4C04-9E06-A0D0FAA2EEAC}|Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework.csproj|c:\\workspace code academy\\namespace-dll-static-homework\\namespace-dll-static-homework\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C2ACD9-31BC-4C04-9E06-A0D0FAA2EEAC}|Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework.csproj|solutionrelative:namespace-dll-static-homework\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C2ACD9-31BC-4C04-9E06-A0D0FAA2EEAC}|Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework.csproj|c:\\workspace code academy\\namespace-dll-static-homework\\namespace-dll-static-homework\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C2ACD9-31BC-4C04-9E06-A0D0FAA2EEAC}|Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework.csproj|solutionrelative:namespace-dll-static-homework\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C2ACD9-31BC-4C04-9E06-A0D0FAA2EEAC}|Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework.csproj|c:\\workspace code academy\\namespace-dll-static-homework\\namespace-dll-static-homework\\helpers\\extensions\\emailextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C2ACD9-31BC-4C04-9E06-A0D0FAA2EEAC}|Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework.csproj|solutionrelative:namespace-dll-static-homework\\helpers\\extensions\\emailextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C2ACD9-31BC-4C04-9E06-A0D0FAA2EEAC}|Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework.csproj|c:\\workspace code academy\\namespace-dll-static-homework\\namespace-dll-static-homework\\helpers\\extensions\\arrayextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C2ACD9-31BC-4C04-9E06-A0D0FAA2EEAC}|Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework.csproj|solutionrelative:namespace-dll-static-homework\\helpers\\extensions\\arrayextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Namespace-Dll-Static-Homework\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Namespace-Dll-Static-Homework\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:56:45.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework\\Services\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "Namespace-Dll-Static-Homework\\Services\\CalculatorService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework\\Services\\CalculatorService.cs",
+              "RelativeToolTip": "Namespace-Dll-Static-Homework\\Services\\CalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:30:34.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayExtension.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework\\Helpers\\Extensions\\ArrayExtension.cs",
+              "RelativeDocumentMoniker": "Namespace-Dll-Static-Homework\\Helpers\\Extensions\\ArrayExtension.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework\\Helpers\\Extensions\\ArrayExtension.cs",
+              "RelativeToolTip": "Namespace-Dll-Static-Homework\\Helpers\\Extensions\\ArrayExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:23:48.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailExtension.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework\\Helpers\\Extensions\\EmailExtension.cs",
+              "RelativeDocumentMoniker": "Namespace-Dll-Static-Homework\\Helpers\\Extensions\\EmailExtension.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework\\Helpers\\Extensions\\EmailExtension.cs",
+              "RelativeToolTip": "Namespace-Dll-Static-Homework\\Helpers\\Extensions\\EmailExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:46:58.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework\\Program.cs",
+              "RelativeDocumentMoniker": "Namespace-Dll-Static-Homework\\Program.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Namespace-Dll-Static-Homework\\Namespace-Dll-Static-Homework\\Program.cs",
+              "RelativeToolTip": "Namespace-Dll-Static-Homework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:42:13.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

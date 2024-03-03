@@ -1,0 +1,11 @@
+C:\Workspace Code Academy\Namespace-Dll-Static\Services\bin\Debug\net6.0\Services.deps.json
+C:\Workspace Code Academy\Namespace-Dll-Static\Services\bin\Debug\net6.0\Services.dll
+C:\Workspace Code Academy\Namespace-Dll-Static\Services\bin\Debug\net6.0\Services.pdb
+C:\Workspace Code Academy\Namespace-Dll-Static\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\Namespace-Dll-Static\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\Namespace-Dll-Static\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Workspace Code Academy\Namespace-Dll-Static\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\Namespace-Dll-Static\Services\obj\Debug\net6.0\Services.dll
+C:\Workspace Code Academy\Namespace-Dll-Static\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Workspace Code Academy\Namespace-Dll-Static\Services\obj\Debug\net6.0\Services.pdb
+C:\Workspace Code Academy\Namespace-Dll-Static\Services\obj\Debug\net6.0\ref\Services.dll
